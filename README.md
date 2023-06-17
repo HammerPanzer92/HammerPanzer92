@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Hello/Bonjour</h1>
+<p align="center">
+I'm a Web developper that have a preference for backend, and do some gamedev stuff on the side (manly with the Godot Engine)
+</p>
 
 <!--
 **HammerPanzer92/HammerPanzer92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
