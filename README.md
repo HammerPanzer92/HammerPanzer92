@@ -1,6 +1,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7515F7&center=true&width=435&lines=Hello%2FBonjour)](https://git.io/typing-svg)
 <p align="center">
-I'm a Web developper that have a preference for backend, and do some gamedev stuff on the side (manly with the Godot Engine)
+I'm a french Web developper that have a preference for backend, and do some gamedev stuff on the side (manly with the Godot Engine)
 </p>
 
 I'm interested in :
